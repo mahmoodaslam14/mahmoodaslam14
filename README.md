@@ -14,6 +14,7 @@ Right now I work on AI software for US cancer registries, building the product e
 <p>
   <a href="https://www.linkedin.com/in/mahmoodaslam14/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/mahmoodaslam14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:mahmoodaslam14@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 ### What I can help with
@@ -47,6 +48,19 @@ Right now I work on AI software for US cancer registries, building the product e
   <img src="https://skillicons.dev/icons?i=html,css,sass,angular,graphql,firebase,azure,vite,webpack,jest,jenkins,git,github&perline=13" alt="Other tools">
 </p>
 
+### Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,jenkins,azure,firebase&perline=4" alt="Deployment">
+</p>
+
+### Project management
+
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
+</p>
+
 ### AI dev tools I use daily
 
 <p>
@@ -65,4 +79,4 @@ Right now I work on AI software for US cancer registries, building the product e
 
 ---
 
-Building something and need one developer who can handle both the app and the AI side? [Message me on LinkedIn](https://www.linkedin.com/in/mahmoodaslam14/).
+Building something and need one developer who can handle both the app and the AI side? [Message me on LinkedIn](https://www.linkedin.com/in/mahmoodaslam14/) or email [mahmoodaslam14@gmail.com](mailto:mahmoodaslam14@gmail.com).
