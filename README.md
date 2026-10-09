@@ -80,13 +80,6 @@ Right now I work on AI software for US cancer registries, building the product e
   <img src="https://img.shields.io/badge/v0.dev-000000?style=flat-square&logo=vercel&logoColor=white" alt="v0.dev">
 </p>
 
-### GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoodaslam14&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoodaslam14&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
-</p>
-
 ---
 
 Building something and need one developer who can handle both the app and the AI side? [Message me on LinkedIn](https://www.linkedin.com/in/mahmoodaslam14/) or email [mahmoodaslam14@gmail.com](mailto:mahmoodaslam14@gmail.com).
