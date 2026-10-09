@@ -6,6 +6,11 @@ I build web apps that people use every day, and I wire AI into them so they do u
 
 Right now I work on AI software for US cancer registries, building the product end to end (React, FastAPI, Node.js, PostgreSQL) and integrating LLMs that pull the right data out of messy clinical documents. Before that I spent 4+ years at Xeven Solutions, starting as a frontend developer and finishing as a Sr. MERN Stack Developer.
 
+- 💼 Sr Full Stack Developer & AI Integration Expert at **Onvera Health** (remote)
+- 🧠 Working on: LLM-powered data extraction for cancer registries
+- 🎓 BE Computer Software Engineering, University of South Asia
+- 📍 Lahore, Pakistan · open to freelance and contract projects
+
 <p>
   <a href="https://www.linkedin.com/in/mahmoodaslam14/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/mahmoodaslam14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
