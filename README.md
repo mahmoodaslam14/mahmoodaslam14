@@ -27,15 +27,6 @@ Right now I work on AI software for US cancer registries, building the product e
 - **CI/CD:** Jenkins pipelines so builds, tests and deploys run without manual steps
 - **Healthcare software** where security and compliance (HIPAA) actually matter
 
-### Projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [ai-document-extractor](https://github.com/mahmoodaslam14/ai-document-extractor) | Turns PDFs and documents into structured JSON, with a source quote and confidence for every field | FastAPI, React, Claude API |
-| [nextjs-ai-chatbot](https://github.com/mahmoodaslam14/nextjs-ai-chatbot) | Streaming AI chatbot with stop button and conversation memory, one-click Vercel deploy | Next.js, TypeScript, Claude API |
-| [mern-task-manager](https://github.com/mahmoodaslam14/mern-task-manager) | Task manager with JWT login and user/admin roles | MongoDB, Express, React, Node.js |
-| [realtime-chat-socketio](https://github.com/mahmoodaslam14/realtime-chat-socketio) | Chat rooms with live online users and typing indicators | React, Node.js, Socket.IO |
-
 ### Currently working with
 
 <p>
